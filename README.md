@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/capa.svg" alt="Eduardo Spodaryk — Dados, BI e Desenvolvimento" width="100%">
+  <img src="capa.svg" alt="Eduardo Spodaryk — Dados, BI e Desenvolvimento" width="100%">
 </p>
 
 ## Olá, sou o Eduardo.
@@ -11,20 +11,20 @@ Gosto de entender o problema por trás dos números e construir algo que ajude a
 ## Tecnologias e ferramentas
 
 <p>
-  <img src="assets/power-bi.svg" alt="Power BI" height="32">
-  <img src="assets/dax.svg" alt="DAX" height="32">
-  <img src="assets/power-query.svg" alt="Power Query" height="32">
-  <img src="assets/html.svg" alt="HTML" height="32">
-  <img src="assets/css.svg" alt="CSS" height="32">
-  <img src="assets/bootstrap.svg" alt="Bootstrap" height="32">
+  <img src="power-bi.svg" alt="Power BI" height="32">
+  <img src="dax.svg" alt="DAX" height="32">
+  <img src="power-query.svg" alt="Power Query" height="32">
+  <img src="html.svg" alt="HTML" height="32">
+  <img src="css.svg" alt="CSS" height="32">
+  <img src="bootstrap.svg" alt="Bootstrap" height="32">
 </p>
 
 **Em estudo**
 
 <p>
-  <img src="assets/python.svg" alt="Python" height="32">
-  <img src="assets/sql.svg" alt="SQL" height="32">
-  <img src="assets/react.svg" alt="React" height="32">
+  <img src="python.svg" alt="Python" height="32">
+  <img src="sql.svg" alt="SQL" height="32">
+  <img src="react.svg" alt="React" height="32">
 </p>
 
 **Pascal** — minha base de lógica de programação.
@@ -38,16 +38,14 @@ Gosto de entender o problema por trás dos números e construir algo que ajude a
     <td>
       <h3>Francis Joias · Business Intelligence</h3>
       <p>
-        <img src="assets/power-bi.svg" alt="Power BI" height="26">
-        <img src="assets/em-desenvolvimento.svg" alt="Em desenvolvimento" height="26">
+        <img src="power-bi.svg" alt="Power BI" height="26">
+        <img src="em-desenvolvimento.svg" alt="Em desenvolvimento" height="26">
       </p>
       <p>Dashboard para analisar vendas, produtos, parcelas e desempenho de revendedoras, usando dados fictícios.</p>
       <p>As páginas de Visão Geral e Vendas estão desenvolvidas. Financeiro, Estoque e Revendedoras são as próximas etapas.</p>
     </td>
   </tr>
 </table>
-
-<!-- Adicione aqui o link público do projeto quando ele estiver disponível na sua conta. -->
 
 ---
 
